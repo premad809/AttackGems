@@ -1,7 +1,0 @@
-name: PowerGems
-main: com.example.powergems.PowerGemsPlugin
-version: 1.0
-api-version: 1.8
-commands:
-  givefiregem:
-    description: Gives the fire gem
