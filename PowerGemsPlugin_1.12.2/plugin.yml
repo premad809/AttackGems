@@ -1,0 +1,8 @@
+name: PowerGems
+version: 1.0
+main: com.example.powergems.PowerGemsPlugin
+api-version: 1.12
+commands:
+  givefiregem:
+    description: Gives the player a Fire Gem
+    usage: /givefiregem
